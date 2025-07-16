@@ -1,7 +1,7 @@
+<div align="center">
+
 # 🛡️ ArkRail Guardian
 
-<div align="center">
-  
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-开发中-yellow?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-GPL%203.0-blue?style=for-the-badge)
